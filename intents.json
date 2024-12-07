@@ -1,0 +1,73 @@
+[
+        {
+            "tag": "recommend_movie",
+            "patterns": [
+                "Recommend a movie",
+                "What movie should I watch?",
+                "Suggest a good movie",
+                "Any movie suggestions?"
+            ],
+            "responses": [
+                "You might enjoy 'Inception' if you're into mind-bending thrillers.",
+                "If you like superhero movies, try 'Avengers: Endgame'.",
+                "For a heartfelt drama, 'The Pursuit of Happyness' is a great choice.",
+                "Enjoy comedy? 'The Hangover' is hilarious!",
+                "Love sci-fi? 'Interstellar' is a must-watch.",
+                "For horror fans, 'The Conjuring' is terrifying!",
+                "Prefer romance? 'The Notebook' is timeless.",
+                "If you like action, 'Mad Max: Fury Road' will keep you on the edge of your seat.",
+                "Enjoy animated films? 'Spider-Man: Into the Spider-Verse' is visually stunning.",
+                "For classic cinema, watch 'The Godfather'."
+            ]
+        },
+        {
+            "tag": "recommend_by_genre",
+            "patterns": [
+                "Recommend a comedy movie",
+                "Suggest a sci-fi film",
+                "What horror movie should I watch?",
+                "Give me a romantic movie recommendation"
+            ],
+            "responses": [
+                "For comedy, watch 'Superbad' or 'Step Brothers'.",
+                "Love sci-fi? Try 'Blade Runner 2049' or 'Dune'.",
+                "Horror fans will enjoy 'Hereditary' or 'It Follows'.",
+                "Romantic movies like 'La La Land' or 'Pride & Prejudice' are wonderful."
+            ]
+        },
+        {
+            "tag": "recommend_by_language",
+            "patterns": [
+                "Suggest an English movie",
+                "Can you recommend a Hindi film?",
+                "What Korean movie should I watch?",
+                "Suggest a good French film"
+            ],
+            "responses": [
+                "English: 'Shawshank Redemption' is a masterpiece.",
+                "Hindi: '3 Idiots' is a classic.",
+                "Korean: 'Parasite' is an Oscar-winning thriller.",
+                "French: 'Amélie' is charming and beautiful."
+            ]
+        },
+        {
+            "tag": "recommend_by_mood",
+            "patterns": [
+                "I'm feeling sad, suggest a movie",
+                "Recommend a feel-good movie",
+                "I want to watch something exciting",
+                "Suggest a calming movie"
+            ],
+            "responses": [
+                "Feeling sad? 'Inside Out' is uplifting.",
+                "For feel-good vibes, 'Forrest Gump' is perfect.",
+                "Exciting movies like 'John Wick' will thrill you."
+            ]
+        }
+
+]        
+    
+                       
+ 
+               
+                    
